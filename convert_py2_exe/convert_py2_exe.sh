@@ -1,7 +1,7 @@
 #!/bin/bash
 # copyleft-- all wrongs reserved. [elit_haxxor]
 
-######################
+###################### [LINUX OR DARWIN]
 ## Program takes cwd and converts .py specified by users... refactor to *.py if multiple files are invovled. 
 ## Program is ONLY intended for [CLI] .py programs. 
 ## Change the args in pyinstaller [found in function py_installer()] to create .exe for [GUI] .py programs
