@@ -26,7 +26,6 @@ echo '[+] Converting..'
 echo $FILE
 
 if [ -f "$py_file" ];
-
 then
     echo "[+] ${FILE} is indeed a file!"
     py_installer
